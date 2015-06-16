@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pebble@gpsanimator.com",
+    "longName": "graphicsDemo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "graphicsDemo",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "704246e0-12af-4526-9293-27d8e6640c50",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
